@@ -1,0 +1,44 @@
+{
+  "name": "Pratyush Kumar",
+  "username": "FakerFAME",
+  "location": "India",
+  "role": "AI/ML Builder · Full-Stack Developer",
+  "terminal": {
+    "prompt": "fame@github ~ $",
+    "whoami": "Pratyush Kumar",
+    "status": "building AI + web applications"
+  },
+  "interests": [
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Generative AI",
+    "Full-Stack Web Development",
+    "Data Analytics"
+  ],
+  "stack": {
+    "languages": ["Python", "JavaScript", "C", "C++", "Java", "SQL"],
+    "frontend": ["React", "HTML", "CSS", "GSAP"],
+    "backend": ["Node.js", "FastAPI"],
+    "aiml": ["Machine Learning", "Generative AI", "NumPy", "Pandas", "Scikit-learn"],
+    "cloud": ["AWS", "Google Cloud"]
+  },
+  "links": {
+    "github": "https://github.com/FakerFAME",
+    "linkedin": "https://www.linkedin.com/in/fakerfame"
+  },
+  "projects": [
+    {
+      "name": "fame-ki-shop",
+      "description": "Full-stack and web development project.",
+      "link": "https://github.com/FakerFAME"
+    },
+    {
+      "name": "Smart India Hackathon freight forecasting concept",
+      "description": "Decision-support concept for freight forecasting and vessel chartering."
+    },
+    {
+      "name": "GraphOps / Attack Path security concept",
+      "description": "Graph-based attack-path analysis and blast-radius visualization concept."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='980' height='140' viewBox='0 0 980 140' role='img' aria-label='FakerFAME terminal header'>
+  <defs>
+    <linearGradient id='line' x1='0' x2='1' y1='0' y2='0'>
+      <stop offset='0%' stop-color='#39d353'/>
+      <stop offset='100%' stop-color='#7dd3fc'/>
+    </linearGradient>
+  </defs>
+  <rect x='0.5' y='0.5' width='979' height='139' rx='12' fill='#090b0d' stroke='#1f2937'/>
+  <text x='28' y='46' fill='#39d353' font-size='18' font-family='ui-monospace, SFMono-Regular, Menlo, Consolas, monospace'>fame@github ~ $ whoami</text>
+  <text x='28' y='88' fill='#c9d1d9' font-size='28' font-family='ui-monospace, SFMono-Regular, Menlo, Consolas, monospace'>Pratyush Kumar</text>
+  <rect x='28' y='102' width='0' height='3' fill='url(#line)'>
+    <animate attributeName='width' values='0;480' dur='1.3s' fill='freeze'/>
+  </rect>
+  <text x='515' y='88' fill='#39d353' font-size='28' font-family='ui-monospace, SFMono-Regular, Menlo, Consolas, monospace'>▋
+    <animate attributeName='opacity' values='1;0;1' dur='1s' repeatCount='indefinite'/>
+  </text>
+</svg>

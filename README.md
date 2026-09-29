@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/fame-ascii.svg" alt="ASCII portrait" width="100%" />
+  <img src="https://github.com/user-attachments/assets&#47;ec2b231d-95ca-4594-9829-b6cc7fc06009" alt="Portrait" width="100%" />
 </p>
 
 <p align="center">

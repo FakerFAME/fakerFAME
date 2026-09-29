@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets&#47;948cd0db-6fcb-4751-959d-aef267d00fb8" alt="Portrait" width="100%" />
-</p>
-
-<p align="center">
   <img src="assets/info-card.svg" alt="Terminal info card" width="100%" />
 </p>
 
